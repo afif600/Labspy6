@@ -186,7 +186,6 @@ elif a=="k" or a=="K":
 ```
 
 Flowchart <p>
-Output Menampilkan Data <p>
 
 ![gambar 6](screenshot/flowchart.png)
 
